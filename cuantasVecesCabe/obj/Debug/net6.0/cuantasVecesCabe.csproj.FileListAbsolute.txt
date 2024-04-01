@@ -1,0 +1,15 @@
+C:\Users\daine\Documentos\c#\cuantasVecesCabe\cuantasVecesCabe\bin\Debug\net6.0\cuantasVecesCabe.exe
+C:\Users\daine\Documentos\c#\cuantasVecesCabe\cuantasVecesCabe\bin\Debug\net6.0\cuantasVecesCabe.deps.json
+C:\Users\daine\Documentos\c#\cuantasVecesCabe\cuantasVecesCabe\bin\Debug\net6.0\cuantasVecesCabe.runtimeconfig.json
+C:\Users\daine\Documentos\c#\cuantasVecesCabe\cuantasVecesCabe\bin\Debug\net6.0\cuantasVecesCabe.dll
+C:\Users\daine\Documentos\c#\cuantasVecesCabe\cuantasVecesCabe\bin\Debug\net6.0\cuantasVecesCabe.pdb
+C:\Users\daine\Documentos\c#\cuantasVecesCabe\cuantasVecesCabe\obj\Debug\net6.0\cuantasVecesCabe.csproj.AssemblyReference.cache
+C:\Users\daine\Documentos\c#\cuantasVecesCabe\cuantasVecesCabe\obj\Debug\net6.0\cuantasVecesCabe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daine\Documentos\c#\cuantasVecesCabe\cuantasVecesCabe\obj\Debug\net6.0\cuantasVecesCabe.AssemblyInfoInputs.cache
+C:\Users\daine\Documentos\c#\cuantasVecesCabe\cuantasVecesCabe\obj\Debug\net6.0\cuantasVecesCabe.AssemblyInfo.cs
+C:\Users\daine\Documentos\c#\cuantasVecesCabe\cuantasVecesCabe\obj\Debug\net6.0\cuantasVecesCabe.csproj.CoreCompileInputs.cache
+C:\Users\daine\Documentos\c#\cuantasVecesCabe\cuantasVecesCabe\obj\Debug\net6.0\cuantasVecesCabe.dll
+C:\Users\daine\Documentos\c#\cuantasVecesCabe\cuantasVecesCabe\obj\Debug\net6.0\refint\cuantasVecesCabe.dll
+C:\Users\daine\Documentos\c#\cuantasVecesCabe\cuantasVecesCabe\obj\Debug\net6.0\cuantasVecesCabe.pdb
+C:\Users\daine\Documentos\c#\cuantasVecesCabe\cuantasVecesCabe\obj\Debug\net6.0\cuantasVecesCabe.genruntimeconfig.cache
+C:\Users\daine\Documentos\c#\cuantasVecesCabe\cuantasVecesCabe\obj\Debug\net6.0\ref\cuantasVecesCabe.dll
